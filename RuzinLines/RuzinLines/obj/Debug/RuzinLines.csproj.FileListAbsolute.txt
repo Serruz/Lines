@@ -1,0 +1,31 @@
+E:\Programming\C#\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe.config
+E:\Programming\C#\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe
+E:\Programming\C#\RuzinLines\RuzinLines\bin\Debug\RuzinLines.pdb
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csprojResolveAssemblyReference.cache
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Form1.resources
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Properties.Resources.resources
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csproj.GenerateResource.Cache
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.exe
+E:\Programming\C#\RuzinLines\RuzinLines\obj\Debug\RuzinLines.pdb
+C:\Users\serru\OneDrive\Документы\Visual Studio 2015\Projects\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe.config
+C:\Users\serru\OneDrive\Документы\Visual Studio 2015\Projects\RuzinLines\RuzinLines\obj\Debug\RuzinLines.exe
+C:\Users\serru\OneDrive\Документы\Visual Studio 2015\Projects\RuzinLines\RuzinLines\obj\Debug\RuzinLines.pdb
+C:\Users\serru\OneDrive\Документы\Visual Studio 2015\Projects\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csprojResolveAssemblyReference.cache
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe.config
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.exe
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.pdb
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.pdb
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csprojResolveAssemblyReference.cache
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Form1.resources
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Properties.Resources.resources
+J:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csproj.GenerateResource.Cache
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe.config
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.exe
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.pdb
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.exe
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\bin\Debug\RuzinLines.pdb
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csprojResolveAssemblyReference.cache
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Form1.resources
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.Properties.Resources.resources
+D:\Проекты C#. Рузин С.Б. группа 3.1\RuzinLines\RuzinLines\obj\Debug\RuzinLines.csproj.GenerateResource.Cache
